@@ -11,9 +11,9 @@ The JSON for RESTful APIs can be accessed in the [Postman Collection](https://gi
 
 These APIs support real-time access to all aspects of data center operations including security, power, cooling, sensors, provisioning and many other key metrics. This allows developers to embed the API into their own systems allowing increased control and visibility of their data center footprint.
 
-Detailed documentation of each API can be found at https://docs.qtsdatacenters.com
+Detailed documentation of each API can be found at <https://docs.qtsdatacenters.com>
 
-If you have questions or need support, please contact apisupport@qtsdatacenters.com
+If you have questions or need support, please contact <apisupport@qtsdatacenters.com>
 
 BSD 3-Clause License  
 Copyright (c) 2019, Quality Technology Services, LLC  
