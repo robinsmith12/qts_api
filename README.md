@@ -6,7 +6,7 @@ QTS, a leading provider of software-defined and mega scale data center solutions
 
 QTS is committed to the digitization of its end-to-end systems and processes to enable new ways to interact with QTS’ platform and accelerate the deployment of new services and solutions. 
 
-The JSON for RESTful APIs can be accessed in the [Postman Collection](https://github.com/qtsdatacenters/qts_api/tree/master/Postman%20Collections) file.
+QTS Service Delivery Platform APIs can be accessed [here](https://github.com/qtsdatacenters/qts_api/tree/master/Postman%20Collections). 
 
 
 These APIs support real-time access to all aspects of data center operations including security, power, cooling, sensors, provisioning and many other key metrics. This allows developers to embed the API into their own systems allowing increased control and visibility of their data center footprint.
