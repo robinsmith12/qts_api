@@ -1,4 +1,4 @@
-https://github.com/qtsdatacenters/qts_api/blob/master/QTS-API_full-color-for-light-background.png
+!https://github.com/qtsdatacenters/qts_api/blob/master/QTS-API_full-color-for-light-background.png
 
 # QTS API
 
