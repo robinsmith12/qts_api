@@ -1,4 +1,4 @@
-![Logo]https://github.com/qtsdatacenters/qts_api/blob/master/QTS-API_full-color-for-light-background.png "QTS Logo"
+![Logo](https://github.com/qtsdatacenters/qts_api/blob/master/QTS-API_full-color-for-light-background.png) "QTS Logo"
 
 # QTS API
 
