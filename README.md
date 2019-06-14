@@ -17,6 +17,5 @@ Detailed documentation of each API can be found at https://docs.qtsdatacenters.c
 If you have questions or need support, please contact apisupport@qtsdatacenters.com
 
 BSD 3-Clause License
-
 Copyright (c) 2019, Quality Technology Services, LLC
 All rights reserved.
