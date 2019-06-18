@@ -2,7 +2,7 @@
 
 # QTS API
 
-QTS, a leading provider of software-defined and mega scale data center solutions, has published its RESTful application programming interface (API) definitions as Open Source on Github under the BSD license to provide maximum transparency and offer as a basis of an open standard for the industry. 
+Quality Technology Services, LLC, a leading provider of software-defined and mega scale data center solutions, has published its RESTful application programming interface (API) definitions as Open Source on Github under the BSD license to provide maximum transparency and offer as a basis of an open standard for the industry. 
 
 QTS is committed to the digitization of its end-to-end systems and processes to enable new ways to interact with QTS’ platform and accelerate the deployment of new services and solutions. 
 
@@ -15,6 +15,6 @@ Detailed documentation of each API can be found at <https://docs.qtsdatacenters.
 
 If you have questions or need support, please contact <apisupport@qtsdatacenters.com>
 
-BSD 3-Clause License  
+This package is licensed under the BSD 3-Clause License  
 Copyright (c) 2019, Quality Technology Services, LLC  
 All rights reserved.
