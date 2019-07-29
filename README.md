@@ -11,7 +11,7 @@ QTS Service Delivery Platform APIs can be accessed [here](https://github.com/qts
 
 These APIs support real-time access to all aspects of data center operations including security, power, cooling, sensors, provisioning and many other key metrics. This allows developers to embed the API into their own systems allowing increased control and visibility of their data center footprint.
 
-Detailed documentation of each API can be found at <a href="https://docs.qtsdatacenters.com/" target="_blank">
+Detailed documentation of each API can be found at <a href="https://docs.qtsdatacenters.com/" target="_blank">https://docs.qtsdatacenters.com</a>
 
 If you have questions or need support, please contact <apisupport@qtsdatacenters.com>
 
