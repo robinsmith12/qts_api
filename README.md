@@ -16,5 +16,5 @@ Detailed documentation of each API can be found at <a href="https://docs.qtsdata
 If you have questions or need support, please contact <apisupport@qtsdatacenters.com>
 
 This package is licensed under the BSD 3-Clause License  
-Copyright (c) 2020, Quality Technology Services, LLC  
+Copyright (c) 2021, Quality Technology Services, LLC  
 All rights reserved.
